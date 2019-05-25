@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Suchanya-Resume/static/css/main.8ca0c2ad.chunk.css",
+    "main.css": "/Suchanya-Resume/static/css/main.9df0a72a.chunk.css",
     "main.js": "/Suchanya-Resume/static/js/main.2a5cfb1e.chunk.js",
     "main.js.map": "/Suchanya-Resume/static/js/main.2a5cfb1e.chunk.js.map",
     "runtime~main.js": "/Suchanya-Resume/static/js/runtime~main.7e8d66cb.js",
@@ -8,9 +8,9 @@
     "static/js/2.6efc73d3.chunk.js": "/Suchanya-Resume/static/js/2.6efc73d3.chunk.js",
     "static/js/2.6efc73d3.chunk.js.map": "/Suchanya-Resume/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/Suchanya-Resume/index.html",
-    "precache-manifest.24d89d3c2753e8750518f353a998b4a6.js": "/Suchanya-Resume/precache-manifest.24d89d3c2753e8750518f353a998b4a6.js",
+    "precache-manifest.14e6b4a38528df73c6d5079fe5cacf5f.js": "/Suchanya-Resume/precache-manifest.14e6b4a38528df73c6d5079fe5cacf5f.js",
     "service-worker.js": "/Suchanya-Resume/service-worker.js",
-    "static/css/main.8ca0c2ad.chunk.css.map": "/Suchanya-Resume/static/css/main.8ca0c2ad.chunk.css.map",
+    "static/css/main.9df0a72a.chunk.css.map": "/Suchanya-Resume/static/css/main.9df0a72a.chunk.css.map",
     "static/media/77386.jpg": "/Suchanya-Resume/static/media/77386.908602ca.jpg"
   }
 }
